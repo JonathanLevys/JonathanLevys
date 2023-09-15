@@ -35,6 +35,7 @@
   <a href = "https://ubuntu.com/download/desktop"><img src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a href = "https://www.microsoft.com/pt-br/windows/?r=1"><img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href = "https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href ="https://www.mysql.com/"><img scr="https://www.pngwing.com/en/free-png-pwyrr"></a>
   
  </div>
  
