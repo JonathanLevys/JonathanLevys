@@ -26,6 +26,7 @@
   <img align="center" alt="jonathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jonathan-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="jonathan-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="jonathan-" height="40" width="50" scr="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg">
  </div>
 
 </br>
@@ -35,7 +36,7 @@
   <a href = "https://ubuntu.com/download/desktop"><img src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a href = "https://www.microsoft.com/pt-br/windows/?r=1"><img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href = "https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href ="https://www.mysql.com/"><img scr="https://www.pngwing.com/en/free-png-pwyrr"></a>
+  
   
  </div>
  
